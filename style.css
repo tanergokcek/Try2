@@ -1,0 +1,202 @@
+h1 {                                /* $$$ 1 BOSLUK !!!!*/
+  
+   color: green;     /* $$$ background-color:green  DEGIL !!*/
+
+
+}
+
+/*--5.3////////////////////////////////////////////////////////////////////////////// */  
+ol {                                                        
+   margin-left: -40px;                          
+   margin-top: -20px;                                 /*ol kismini AYRI BAK .!*/
+   list-style-position: inside;
+ }
+
+P {
+   color: red;
+}
+
+.note {
+   font-size: 20px;                                   /*$$$$$$$FONTU BOYLE AYARLARIZ. !*/
+}
+
+#id-selector-demo {
+   color: green;
+}
+
+li[value="4"]{                                        /*$$$$$$$$ SADECE VALUE DEGERİ KISMINA ULAŞMAK İÇİN*/
+
+   color: blue;
+   
+}
+
+* {
+   text-align: center;                                /*$$$$$$$  *ile sectiğimiz için herşeyi ortalar.*/
+
+}
+
+
+/*--5.4////////////////////////////////////////////////////////////////////////////// */  
+
+img {                                              /*$$$bütün resimler aynı boyut*/
+   height: 200px;
+   width: 200px;
+}
+
+.Color-title{                                     /*Bütün classı ayarlar. */
+   font-weight: normal;
+}
+
+#red{                                            /*Yazinin rengi*/
+   color: red;
+}
+
+#blue{
+   color: blue;
+}
+
+#orange{
+   color: orange;
+}
+
+#green{
+   color: green;
+}
+
+#yellow{
+   color: yellow;
+}
+
+
+/*--6.0////////////////////////////////////////////////////////////////////////////// */  
+
+body{
+   background-color:antiquewhite ;
+}
+
+
+.h1-v2 {                                        /*boyle daralabilir.*/
+   color: whitesmoke;
+   background-color: darkseagreen;
+}
+
+
+
+h2{
+   color: #FAF8F1;
+   background-color:#C58940 ;
+}
+
+/*--6.1////////////////////////////////////////////////////////////////////////////// */  
+
+#id-color{
+color: coral;
+}
+
+#id-font-size{
+   font-size: 2rem;
+   color: white;
+}
+
+#id-font-weight{
+   font-weight: bold;
+}
+
+#id-font-family{
+   font-family: 'Caveat', cursive;
+}
+
+#id-text-align{
+   text-align: end;
+}
+
+
+
+/*
+
+ body {
+      background-color: cornflowerblue;
+      color: white;
+      font-size: 18px;
+    }
+
+  html{
+   font-size: 30px;
+ }   
+
+
+*/
+
+/*--6.3////////////////////////////////////////////////////////////////////////////// */  
+
+div{                                 /* ! */
+   height: 200px;
+   width: 200px;
+}
+
+.p-v2 {                             /* ! */
+   margin: 0;
+ }
+
+.box{
+   height: 200px;
+   width: 200px;
+   
+}
+
+#id-box-1{
+   background-color: cadetblue;
+
+   border: 10px solid black;      /*$$$$$$$$$$*/
+
+   padding: 20px;
+   
+   
+}
+
+#id-box-2{
+   background-color: gold;
+
+   border-top: 20px solid;
+   border-bottom: 20px solid;
+   border-right: 10px solid;
+   border-left: 10px solid;
+
+   margin-left: 260px;
+}
+
+#id-box-3{
+   background-color: indianred;
+   
+   border: 10px solid black;
+
+   margin-left: 40px;
+
+}
+
+/*--6.4////////////////////////////////////////////////////////////////////////////// */  
+
+.h1-v4{
+   text-transform: uppercase;                               /* ! */
+   font-size: 3rem;                                         /*$$$$$$Bu KISIM ONEMLI */
+}
+
+.poster{
+   width: 50%;
+   margin-left: 25%;
+   margin-top: 100px;
+   color: white;
+   font-family: "Libre Baskerville", serif;
+   text-align: center;
+}
+
+
+
+#id-photo{
+   border: 5px solid white;
+   width: 100%;
+   
+   
+}
+
+/*--7.0 ////////////////////////////////////////////////////////////////////////////// */ 
